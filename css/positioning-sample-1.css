@@ -1,0 +1,33 @@
+.parent{
+    width:500px;
+    border: 1px solid red;
+    margin:10px;
+    text-align: center;
+    position: relative;
+}
+
+.child{
+    border: 1px solid red;
+    margin: 20px;
+    width:50px;
+    height: 50px;
+}
+
+.one{
+    background-color: crimson;
+    position: absolute;
+    right: 50px;
+    top:0px;
+}
+
+.two{
+    background-color: chartreuse;
+}
+
+.three{
+    background-color: dodgerblue;
+}
+
+.four{
+    background-color: yellow;
+}
